@@ -24,7 +24,7 @@ enum _:ARRAY_DATA {
 new const szPlInf[][] = {
     // Информация по поводу плагина.
     "[ZP 4.3] System: Models",
-    "0.1 beta",
+    "1.0 beta",
     "ImmortalAmxx",
 
     //Название ини файла.
