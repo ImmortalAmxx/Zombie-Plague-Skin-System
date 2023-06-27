@@ -11,7 +11,7 @@ AmxModX 1.9.0 + ReAPI 5.21.0.252 + ReGameDLL 5.21.0.546
 
 ```python
 Переместить файл re_zpmodels.ini по пути addons/amxmodx/configs/
-Скомпилировать ReAPI_Models.sma (Используйте компилятор 1.9.0)
+Скомпилировать zp43_system_models.sma (Используйте компилятор 1.9.0)
 Переместить плагин в папку plugins
-Прописать в plugins.ini строчку ReAPI_Models.amxx
+Прописать в plugins.ini строчку zp43_system_models.amxx
 ```
