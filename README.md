@@ -1,17 +1,17 @@
-# Информация
+# Information
 
-Добавляет на Ваш сервер систему моделей для ZP 4.3
+Adds the model system for ZP 4.3 to your server
 
-## Требования
-```c
+## Requirements
+```
 AmxModX 1.9.0 + ReAPI 5.21.0.252 + ReGameDLL 5.21.0.546
 ```
 
-## Установка
+## Installation
 
-```python
-Переместить файл re_zpmodels.ini по пути addons/amxmodx/configs/
-Скомпилировать zp43_system_models.sma (Используйте компилятор 1.9.0)
-Переместить плагин в папку plugins
-Прописать в plugins.ini строчку zp43_system_models.amxx
+`` ``python
+Move the re_zpmodels.ini file to the path addons/amxmodx/configs/
+Compile zp43_system_models.sma (Use compiler 1.9.0)
+Move the plugin to the plugins folder
+Write in plugins.ini the line zp43_system_models.amxx
 ```
